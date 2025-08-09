@@ -274,3 +274,5 @@ This project showcases the intersection of **DevOps engineering** and **machine 
 
 ⭐ **Star this repo if you found it helpful for your MLOps journey!**
 
+#   d i a b e t e s - p r e d i c t i o n - m l o p s  
+ 
