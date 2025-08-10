@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 About
 
 **Built by**: Jha'Mel Thorne  
-**Focus**: Cloud Engineering & DevOps transitioning to MLOps  
+**Focus**: Data analyst transitioning to Cloud Engineering & DevOps
 **LinkedIn**: [linkedin.com/in/jhamel-thorne](https://www.linkedin.com/in/jhamel-thorne/)
 
 This project showcases the intersection of **DevOps engineering** and **machine learning operations**, demonstrating how to build production-ready ML systems with proper automation, monitoring, and deployment practices.
@@ -234,3 +234,4 @@ This project showcases the intersection of **DevOps engineering** and **machine 
 
 ⭐ **Star this repository if you found it helpful for your MLOps journey!**  
 🐛 **Found an issue?** [Open an issue](https://github.com/JhamelThorne/diabetes-prediction-mlops/issues) and let's fix it together.
+
